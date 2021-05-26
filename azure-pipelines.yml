@@ -14,6 +14,6 @@ variables:
 
 steps:
 
-- script: 'echo "Test from first pipeline'
+- script: 'echo Test from first pipeline'
   displayName: 'Write build info'
   workingDirectory: Tailspin.SpaceGame.Web/wwwroot
